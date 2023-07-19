@@ -1,0 +1,1 @@
+This Repository is a summative. It has been recovered from note pad and it is a place where we have applied our learned skills from the front end developpment module. It is a chance to recover the data and publish it on git hub 
